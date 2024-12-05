@@ -1,5 +1,8 @@
 # Spotify_advanced_data_analysis
 
+![Dashboard.png](Dashboard.png)
+
+
 In conclusion, this exploration into Spotify’s top hits of 2023 reveals significant insights into the factors influencing song popularity in the digital age. Our analysis indicates that there are a variety of factors that can influence the popularity of a song including:
 
 ●	Artist Count: A significant finding is that a higher number of artists on a song correlates with fewer streams. This suggests a preference among Spotify users for solo artists or smaller collaborations.
